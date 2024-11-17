@@ -98,7 +98,7 @@ const sodermalmTeam = [
     ],
     image: "https://static.wixstatic.com/media/8f7788_787c9f7df92e4a07b6539ce497450b97~mv2.jpg/v1/fill/w_600,h_809,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AD8CC2E9-AB36-4E97-A69F-91B2004E8D50.jpg",
     location: "Södermalm",
-    phone: "073-441 12 55",
+    phone: "076-095 58 87",
     bookingUrl: "https://www.bokadirekt.se/places/frisor-stockholm-sodermalm-styling-by-brazil-vaxning-50453",
     slug: "juliana"
   },
@@ -113,7 +113,7 @@ const sodermalmTeam = [
     ],
     image: "https://static.wixstatic.com/media/8f7788_c4f94b0b253a4850af69e94ad723d34b~mv2.jpg/v1/fill/w_357,h_600,al_c,q_80,enc_auto/8f7788_c4f94b0b253a4850af69e94ad723d34b~mv2.jpg",
     location: "Södermalm",
-    phone: "073-441 12 55",
+    phone: "076-095 58 87",
     bookingUrl: "https://www.bokadirekt.se/places/frisor-stockholm-sodermalm-styling-by-brazil-vaxning-50453",
     slug: "alyna"
   }
